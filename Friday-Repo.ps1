@@ -1,0 +1,2 @@
+# Friday Repo
+print ("Friday")
